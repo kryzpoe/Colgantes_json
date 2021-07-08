@@ -1,19 +1,19 @@
 {
     "cadenaycolgantes":[{
         "nombre":"Cadena con colgante de piedras",
-        "avartar":"",
+        "avartar":"https://i.imgur.com/Z3wNmUs.jpg",
         "detalle":"Cadena de plata 950, con una piedra granate y un circon"
     },{
         "nombre":"Colgante de estrella y una media luna",
-        "avartar":"",
+        "avartar":"https://i.imgur.com/4wEfTtR.jpg",
         "detalle":"Colgante de oro 18k"
     },{
         "nombre":"Cadena con punto de luz",
-        "avartar":"",
+        "avartar":"https://i.imgur.com/Fep1nxm.jpg",
         "detalle":"Cadenas turbillon de plata 950, con un punto de luz de distintos colores"
     },{
         "nombre":"Cadena con colgante de abeja",
-        "avartar":"",
+        "avartar":"https://i.imgur.com/WiknqvZ.jpg",
         "detalle":"Cadena rolo de plata 950, con colgante de abeja de plata 950"
     }
   ]
